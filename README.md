@@ -9,4 +9,6 @@ This project has a code about project for a joystick using an arduino.
 
 4.The latest version of this code is **1.0.0**
 
-5.**Stay tuned for latest updates.**
+5.In the zip file there will be a wiring diagram and the main coding.
+
+6.**Stay tuned for latest updates.**
