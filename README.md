@@ -1,5 +1,5 @@
 # Joystick-project
-This project has a code about project for a joystick using an arduino.
+This project has a code for a joystick using an arduino.
 
 1.You can download this code from the releases side.
 
